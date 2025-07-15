@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou o João Vitor Ferreira
 
-🎯 Apaixonado por tudo que envolve tecnologia, sou fascinado por resolver problemas e encontrar soluções inteligentes. Atuo como desenvolvedor full stack, buscando sempre evoluir e explorar novas tecnologias.
+🎯 Apaixonado por tudo que envolve tecnologia, sou fascinado por resolver problemas e encontrar soluções inteligentes. Minha área de atuação é como desenvolvedor full stack, buscando sempre evoluir e explorar novas tecnologias.
 
 ---
 
