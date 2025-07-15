@@ -32,8 +32,8 @@
 
 ## 📫 Onde me encontrar
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/joao-vitor-ferreira-651b9a26b/))  
-- ✉️ jv96516609@gmail.com.com 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/joao-vitor-ferreira-651b9a26b/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jv96516609@gmail.com)
 
 
 ---
