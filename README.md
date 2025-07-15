@@ -11,7 +11,7 @@
 - 🚀 Tecnologias principais: `Java`,`Python` `Spring Boot`, `React`
 - 🧠 Aprendendo atualmente: `AWS`
 - 💡 Também tenho experiência com: `HTML`, `CSS`, `Git`, `MySQL`, `PostgreSQL`
-- 🔍 Curioso por arquitetura de sistemas, boas práticas e escalabilidade
+- 🔍 Curioso por arquitetura de sistemas, boas práticas metodologias ágeis e escalabilidade
 
 ---
 
